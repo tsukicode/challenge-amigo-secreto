@@ -13,9 +13,20 @@ function adicionarAmigo() {
         console.log(listaAmigos);
     }
     limparCampo();
+    mostrarLista();
 }
 
 function limparCampo() {
     campo = document.querySelector('input');
     campo.value = '';
+}
+
+function mostrarLista() {
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+    for (let amigo of listaAmigos) {
+        let li = document.createElement("li")
+        li.textContent = amigo;
+        lista.appendChild(li);
+    }
 }
