@@ -1,7 +1,6 @@
 # 🎁 Sorteador de Amigo Secreto
 
-Uma aplicação web simples para organizar e sortear o Amigo Secreto direto do navegador.
-Foi desenvolvido como parte da trilha de lógica de programação do programa **ONE - Oracle Next Education** em parceria com a **Alura**.
+Uma aplicação web simples para organizar e sortear o Amigo Secreto direto do navegador. O projeto foi desenvolvido como parte da trilha de lógica de programação do programa **ONE - Oracle Next Education**, em parceria com a **Alura**, com o objetivo de aplicar os conhecimentos adquiridos durante as aulas, reforçando habilidades em JavaScript e versionamento de código com Git.
 
 ## Funcionalidades
 
@@ -21,6 +20,6 @@ Foi desenvolvido como parte da trilha de lógica de programação do programa **
 
 ## Tecnologias utilizadas
 
-- **HTML5**
-- **CSS3**
-- **JavaScript** (funções, manipulação de DOM e listas)
+- **HTML5** → Estrutura do site (fornecido no desafio).
+- **CSS3** → Estilização do site (fornecido no desafio).
+- **JavaScript** → Implementação da lógica de funcionamento (funções, manipulação de DOM e listas).
